@@ -18,7 +18,7 @@
 - **Unique boss battle**.
 ![Boss Battle](https://github.com/user-attachments/assets/f8c8fde7-fe6c-4d9b-8fb2-9014bc086945)
 
-![Captură de ecran 2024-09-19 004109](https://github.com/user-attachments/assets/84b58ccf-2078-4dc2-8c93-ace2ae1def07)
+-![Captură de ecran 2024-09-19 004109](https://github.com/user-attachments/assets/84b58ccf-2078-4dc2-8c93-ace2ae1def07)
 ### Disclaimer
 
 The assets I have used in this project have not been paid for, and I do not intend to profit from someone else's work. They were used solely for practice in creating graphics, aligning animations, and other game development exercises.
