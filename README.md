@@ -8,7 +8,6 @@
 ### Features
 - **Title screen** with load functionality.  
 ![Title Screen](https://github.com/user-attachments/assets/13acbdb0-7704-4894-a5c9-d5c288957f47)
-![image](https://github.com/user-attachments/assets/95f4b9ac-427f-4131-a8c5-85cb58a27ab8)
 
 - **Health, stamina, and focus bars**. The game includes a sword, shield, and two additional weapons dropped by enemies. There's one special spell, along with health and focus potions. A menu, activated by pressing **F**, allows players to assign items to quick slots. Additionally, there's an upgrade system for status bars.
 ![Status Bars](https://github.com/user-attachments/assets/d57926e3-ff27-44f2-97df-48b198dca537)
@@ -20,3 +19,6 @@
 ![Boss Battle](https://github.com/user-attachments/assets/f8c8fde7-fe6c-4d9b-8fb2-9014bc086945)
 
 ![Captură de ecran 2024-09-19 004109](https://github.com/user-attachments/assets/84b58ccf-2078-4dc2-8c93-ace2ae1def07)
+### Disclaimer
+
+The assets I have used in this project have not been paid for, and I do not intend to profit from someone else's work. They were used solely for practice in creating graphics, aligning animations, and other game development exercises.
