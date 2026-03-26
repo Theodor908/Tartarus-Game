@@ -1,0 +1,158 @@
+{
+    "sceneIndex": 1,
+    "characterName": "Player",
+    "characterEssence": 1000,
+    "secondsPlayed": 0.0,
+    "xPosition": 161.03125,
+    "yPosition": 30.0,
+    "zPosition": 103.5,
+    "lastRespawnPoint": {
+        "instanceID": 46024
+    },
+    "currentHealth": 100.0,
+    "currentFocusPoints": 100.0,
+    "currentStamina": 100.0,
+    "vitality": 1,
+    "endurance": 1,
+    "attunement": 1,
+    "currentSpell": {
+        "instanceID": -222628
+    },
+    "spellQuickSlots": [
+        {
+            "instanceID": 40292
+        },
+        {
+            "instanceID": 40292
+        },
+        {
+            "instanceID": 40292
+        }
+    ],
+    "spellsInInventory": [
+        {
+            "instanceID": 40292
+        },
+        {
+            "instanceID": 40292
+        },
+        {
+            "instanceID": 40292
+        },
+        {
+            "instanceID": 40292
+        },
+        {
+            "instanceID": 40292
+        },
+        {
+            "instanceID": 40292
+        },
+        {
+            "instanceID": 40292
+        },
+        {
+            "instanceID": 40292
+        }
+    ],
+    "currentWeapon": {
+        "instanceID": 38936
+    },
+    "handQuickSlots": [
+        {
+            "instanceID": 38936
+        },
+        {
+            "instanceID": 41886
+        },
+        {
+            "instanceID": 41886
+        }
+    ],
+    "weaponsInInventory": [
+        {
+            "instanceID": 41886
+        },
+        {
+            "instanceID": 41886
+        },
+        {
+            "instanceID": 41886
+        },
+        {
+            "instanceID": 41886
+        },
+        {
+            "instanceID": 41886
+        },
+        {
+            "instanceID": 41886
+        },
+        {
+            "instanceID": 41886
+        },
+        {
+            "instanceID": 41886
+        }
+    ],
+    "currentPotion": {
+        "instanceID": 44974
+    },
+    "potionQuickSlots": [
+        {
+            "instanceID": 44974
+        },
+        {
+            "instanceID": 31784
+        },
+        {
+            "instanceID": 41560
+        }
+    ],
+    "potionsInInventory": [
+        {
+            "instanceID": 41560
+        },
+        {
+            "instanceID": 41560
+        },
+        {
+            "instanceID": 41560
+        },
+        {
+            "instanceID": 41560
+        },
+        {
+            "instanceID": 41560
+        },
+        {
+            "instanceID": 41560
+        },
+        {
+            "instanceID": 41560
+        },
+        {
+            "instanceID": 41560
+        }
+    ],
+    "sitesOfGrace": {
+        "keys": [],
+        "values": []
+    },
+    "bossesAwakened": {
+        "keys": [
+            1
+        ],
+        "values": [
+            false
+        ]
+    },
+    "bossesDefeated": {
+        "keys": [
+            1
+        ],
+        "values": [
+            false
+        ]
+    }
+}
